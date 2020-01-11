@@ -4,5 +4,8 @@
 
 # Spring Boot Architecture
  3) Which architecture are you using ? Monolithic or Microservices ? Both ?
+
+# IDE
+ 4) Which IDE are you using ? I use STS of eclipse because it has spring initializer built-in
  
 
