@@ -25,3 +25,11 @@ https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-mic
 https://www.google.com/search?q=how+search+engine+works+step+by+step&oq=how+search+engine+&aqs=chrome.2.69i57j0l7.10738j0j7&sourceid=chrome&ie=UTF-8
 
 https://www.business2community.com/seo/how-search-engines-work-using-a-3-step-process-0322639
+
+# the meaning of the name trivago
+
+https://www.google.com/search?q=the+meaning+of+the+name+trivago&oq=the+meaning+of+the+name+trivago&aqs=chrome..69i57j0.19884j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.abbreviations.com/TRIVAGO
+
+
