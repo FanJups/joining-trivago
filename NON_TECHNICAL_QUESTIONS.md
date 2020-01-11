@@ -5,3 +5,5 @@
 as this guy gets a phd and work at trivago
 
 https://life.trivago.com/experience/complete-a-phd-while-working-fulltime-challenge-accepted.html
+
+2) Meaning of trivago : Trip, Vacation and Go ?
