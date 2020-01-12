@@ -6,4 +6,15 @@
 # IDE
  3) Which IDE are you using ? I use STS of eclipse because it has spring initializer built-in
  
+ 
+# CI
+ 4) Which Continuous Integration tool do you use ? Jenkins or Travis CI
+ 
+# Code management
+ 5) Do you use maven or gradle ? Both
+ 
+ 6) Wich tool do you use for code coverage ? 
+ 
+ 7) Do you use Sonarcloud ?
+ 
 
