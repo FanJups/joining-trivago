@@ -1,5 +1,5 @@
 # We recently migrated the majority of the backend from On-Premise to the cloud.
- 1) Why migrating from On-Premise to Cloud ? Is it linked to Storage ?
+ 1) Why migrating from On-Premise to Cloud ? Is it linked to Storage Capacity ?
  2) Which linux distribution did you use on your On Premise servers ?
 
 
