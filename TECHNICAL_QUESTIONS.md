@@ -24,4 +24,8 @@
 
  8) Do you use jira ?
  
+# Search Team Size
+
+ 9) What is the size of the search team ?
+ 
 
