@@ -1,7 +1,7 @@
 # joining-trivago
-Preparing myself for the interview at trivago
+Preparing myself for the interview to join trivago trivago
 
-Tutorials to do :
+
 
 
 https://github.com/FanJups/angular-in-action-first-app
