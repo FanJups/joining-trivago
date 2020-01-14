@@ -22,3 +22,7 @@ https://www.glassdoor.com/Interview/trivago-Interview-Questions-E673041.htm
 
 https://www.google.com/search?q=trivago+coding+challenge&oq=trivago+coding+cha&aqs=chrome.1.69i57j33l2.11078j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=trivago%20coding%20challenge
 
+# trivago software engineer interview
+
+https://www.glassdoor.com/Interview/trivago-Software-Engineer-Interview-Questions-EI_IE673041.0,7_KO8,25.htm
+
