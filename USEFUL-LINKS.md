@@ -17,3 +17,8 @@ https://www.google.com/search?client=ms-android-transsion-tecno-rev1&sxsrf=ACYBG
 # glassdoor trivago interview questions
 
 https://www.glassdoor.com/Interview/trivago-Interview-Questions-E673041.htm
+
+# trivago coding challenge
+
+https://www.google.com/search?q=trivago+coding+challenge&oq=trivago+coding+cha&aqs=chrome.1.69i57j33l2.11078j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=trivago%20coding%20challenge
+
