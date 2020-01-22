@@ -15,3 +15,5 @@
 7- Think about trivago microservices ( hotel, customers, Admins )
 
 https://dzone.com/articles/spring-boot-best-practices-for-microservices
+
+https://github.com/FanJups/trying-to-reproduce-trivago-backend
